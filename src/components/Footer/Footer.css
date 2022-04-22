@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #E3DFF7;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.contact-img {
+    height: 60px;
+    margin: 10px 50px;
+}

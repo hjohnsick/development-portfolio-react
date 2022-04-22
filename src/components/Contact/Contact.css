@@ -1,0 +1,36 @@
+.contact-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: "Quicksand", sans-serif;
+    background-color: #9FA8EB;
+}
+
+.input {
+    display: inline;
+    width: 100%;
+}
+
+button {
+    margin-top: 20px;
+    background-color: #746AB0;
+    border-color: #746AB0;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #CCFFFF;
+    border-color: #CCFFFF;
+    color: #746AB0;
+}
+
+.error-text {
+    color: #E83845;
+}
+
+@media only screen and (min-width: 768px) {
+    .contact-container {
+        align-items: center;
+        justify-content: center;
+    }
+}

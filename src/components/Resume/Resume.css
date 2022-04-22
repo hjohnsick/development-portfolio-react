@@ -1,0 +1,13 @@
+.resume {
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+    margin-top: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.resume-link {
+    color: #CAF8FA;
+}
