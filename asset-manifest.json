@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/development-portfolio-react/static/css/main.04ea9775.css",
+    "main.js": "/development-portfolio-react/static/js/main.5fbd5779.js",
+    "static/js/787.f372edc1.chunk.js": "/development-portfolio-react/static/js/787.f372edc1.chunk.js",
+    "static/media/heroimage.JPG": "/development-portfolio-react/static/media/heroimage.2dcc1f4acc680e0904fc.JPG",
+    "static/media/whats-for-dinner.png": "/development-portfolio-react/static/media/whats-for-dinner.0c3c1b8a5e002ea86f36.png",
+    "static/media/oh-snap.PNG": "/development-portfolio-react/static/media/oh-snap.e2dcf625c0536995d113.PNG",
+    "static/media/guest-list.png": "/development-portfolio-react/static/media/guest-list.bc275ed4deff33629560.png",
+    "static/media/run-buddy.jpg": "/development-portfolio-react/static/media/run-buddy.c5402f679a451747c5b3.jpg",
+    "static/media/weather-dashboard.PNG": "/development-portfolio-react/static/media/weather-dashboard.1818ac35a5ee0e85cfbf.PNG",
+    "static/media/the-tech-blog.PNG": "/development-portfolio-react/static/media/the-tech-blog.1f02198806c69b52c07b.PNG",
+    "static/media/email.png": "/development-portfolio-react/static/media/email.5162f609c1f0bd17d785.png",
+    "static/media/stackoverflow.png": "/development-portfolio-react/static/media/stackoverflow.2b57c63669410bce761f.png",
+    "static/media/resume.txt": "/development-portfolio-react/static/media/resume.7c64c2f808eaf280f7a9.txt",
+    "index.html": "/development-portfolio-react/index.html",
+    "main.04ea9775.css.map": "/development-portfolio-react/static/css/main.04ea9775.css.map",
+    "main.5fbd5779.js.map": "/development-portfolio-react/static/js/main.5fbd5779.js.map",
+    "787.f372edc1.chunk.js.map": "/development-portfolio-react/static/js/787.f372edc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ea9775.css",
+    "static/js/main.5fbd5779.js"
+  ]
+}

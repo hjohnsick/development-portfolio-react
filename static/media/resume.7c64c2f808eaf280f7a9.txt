@@ -1,0 +1,34 @@
+Heather Johnsick
+Phone Number: 810-357-1407
+Email: hjohnsick@yahoo.com
+
+Experience:
+
+Rocket Mortgage
+Software Engineer
+November 2021 - Present
+Developing a content management system using React and Next.js.
+
+Quicken Loans
+Associate Software Engineer
+September 2020 - November 2021
+Created API endpoints using ASP.NET and typescript.
+Helped develop a developer portal using React for the front end and C# for the backend to document API endpoints.
+
+Quicken Loans     
+Intern
+June 2020 - September 2020
+Created API endpoints using ASP.NET to retrieve information about servicing a mortgage.
+Created stored procedures in Microsoft Sequal Server.
+
+Education:
+
+MSU MERN Stack Bootcamp
+2022
+
+Grand Circus
+C#.NET Bootcamp Certification
+2020
+
+Northwood University
+Bachelor of Business Administration
