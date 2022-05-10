@@ -45,6 +45,13 @@ function Project() {
       url: "https://hjohnsick.github.io/photo-port/",
       git: "https://github.com/hjohnsick/photo-port",
     },
+    {
+      name: "Park-Add-Venture",
+      language: "React/NodeJS/Express",
+      image: "park-add-venture.PNG",
+      url: "https://parkaddventure.herokuapp.com/",
+      git: "https://github.com/8bitgaming/Park-Add-Venture",
+    },
   ];
 
   const renderCard = (card) => {
